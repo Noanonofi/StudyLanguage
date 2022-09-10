@@ -17,6 +17,4 @@ void task() {
 	}
 
 	std::cout << "Sum: " << accumulate(it_min + 1, it_max, 0) << std::endl;
-
-
 }
