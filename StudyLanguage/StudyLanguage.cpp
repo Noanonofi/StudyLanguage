@@ -70,7 +70,6 @@ public:
 		}
 	}
 };
-
 void main()
 {
 	SetConsoleCP(1251);

@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="MaxValueDelete.cpp" />
+    <ClCompile Include="SumElementMinToMax.cpp" />
     <ClCompile Include="StudyLanguage.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
